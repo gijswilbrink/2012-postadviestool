@@ -1,8 +1,8 @@
 # PostNL PostAdviesTool
 Voor PostNL ontwikkelde ik zowel de frontend als backend van de PostAdviesTool, een wizard waarmee bedrijven advies krijgen over welke combinatie PostNL-producten voor hen het meest geschikt is.
 
-Voor de interactie, de animaties en het bijhouden van de voortgang ontwikkelde ik in 2012 een aantal JavaScript-classes.
+Voor de interactie, de animaties en het bijhouden van de voortgang ontwikkelde ik in 2012 een aantal JavaScript-classes. De werkende versie is te bekijken op http://www.postnl.nl/zakelijke-oplossingen/post-versturen/postadviestool/
 
 * **tool-navigation.js** navigatie en voortgang
-* **tool-infographics.js** het tonen van de infographics in de wizard)
+* **tool-infographics.js** het tonen van de infographics in de wizard
 
